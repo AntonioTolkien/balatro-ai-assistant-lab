@@ -1,0 +1,11 @@
+# Balatro AI - Dependencias
+
+# Procesamiento de imágenes
+opencv-python>=4.5.0
+numpy>=1.20.0
+pillow>=9.0.0
+
+# Captura de pantalla (Windows)
+pywin32>=300
+
+# UI (tkinter viene incluido con Python)
